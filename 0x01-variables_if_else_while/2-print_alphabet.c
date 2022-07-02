@@ -2,10 +2,9 @@
 #include<time.h>
 #include<stdio.h>
 /**
-*alphabets in lower cases
-*main - entry point
+*main - assign alphabets in lower case
 *Return: always 0
-
+*return : End of the program
 */
 int main(void)
 {
