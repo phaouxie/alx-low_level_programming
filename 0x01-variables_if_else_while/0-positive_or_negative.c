@@ -2,9 +2,10 @@
 #include<time.h>
 #include<stdio.h>
 /**
-* main -> assign a random number
+* main - assign a random number
 * based a condition
 * Return : always 0
+* Return: End of program
 */
 int main(void)
 {
